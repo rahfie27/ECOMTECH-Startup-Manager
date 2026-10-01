@@ -1,3 +1,5 @@
+<img src="https://www.upload.ee/image/19807445/2026-10-02_031006.png" border="0" alt="2026-10-02_031006.png" />
+
 # ECOMTECH Startup Manager
 
 Windows startup management utility by ECOMTECH.
